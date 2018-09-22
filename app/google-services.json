@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234322459171",
+    "firebase_url": "https://mediplus-b8d01.firebaseio.com",
+    "project_id": "mediplus-b8d01",
+    "storage_bucket": "mediplus-b8d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234322459171:android:9bcbe1f6472fcfd0",
+        "android_client_info": {
+          "package_name": "com.medi.mediplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234322459171-iqq5sqp91gtkb3bj15c5q9veqrafe3g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medi.mediplus",
+            "certificate_hash": "c4859429f2d8b9e612750770f846cb2358d2a033"
+          }
+        },
+        {
+          "client_id": "234322459171-sc3vrhd0ideflcn6dp3lgpc94gam9hon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCik7qoj6q93BlvW0Va1BMOB0ulKl_7ZiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234322459171-sc3vrhd0ideflcn6dp3lgpc94gam9hon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
